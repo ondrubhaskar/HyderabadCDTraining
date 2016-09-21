@@ -15,3 +15,6 @@
 7. Push the changes to your remote repo
 	`git push https://github.com/kulsagar/HyderabadCDTraining.git'
 	
+This is merge demo. 
+If I do it without making any mistake then I can take off for the rest of the day.
+
